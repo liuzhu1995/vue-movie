@@ -2,7 +2,7 @@
 
 用豆瓣免费的Api写的一个电影介绍页面 运用了vue-router实现了多个页面跳转
 未开发功能：搜索
-
+https://github.com/liuzhu1995/vue-movie/blob/master/src/assets/home.png
 > A Vue.js project
 
 ## Build Setup
